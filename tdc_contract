@@ -1,6 +1,6 @@
 pragma solidity >=0.4.22 <0.6.0;
 /*
-  tdc contract detail information
+  about tdc contract detail information
 */
 contract owned {
     address public owner;
